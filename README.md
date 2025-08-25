@@ -1,5 +1,3 @@
-Hernan Otero
-
 # Hernan Otero
 ## Presentación Personal
 
