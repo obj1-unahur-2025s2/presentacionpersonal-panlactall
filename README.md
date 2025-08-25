@@ -1,6 +1,6 @@
 Hernan Otero
 
-# Programación con objetos I
+# Hernan Otero
 ## Presentación Personal
 
 ### Datos Personales
