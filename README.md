@@ -1,4 +1,4 @@
-# Hernan Otero
+Hernan Otero
 ## Presentación Personal
 
 ### Datos Personales
