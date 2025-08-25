@@ -1,4 +1,4 @@
-![Logo UNAHUR](./UNAHUR.png)
+Hernan Otero
 
 # Programación con objetos I
 ## Presentación Personal
